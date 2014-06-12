@@ -1,5 +1,13 @@
 Amazon Online Test
 =========
+
+### Interview Zen ###
+http://www.interviewzen.com/interview/FMxhG2
+
+### License ###
+GPLv2
+
+### Requirement ###
 Please note the approved languages:
 * C
 * C++
@@ -10,8 +18,7 @@ Please note the approved languages:
 * PHP
 * JavaScript
 
-
-###QUESTION:###
+### Question ###
 
 Tree Printing [Data Structures]
 
